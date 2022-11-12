@@ -1,0 +1,40 @@
+@import-normalize; /* bring in normalize.css styles */
+
+@font-face {
+  font-family: 'Quicksand', sans-serif, 'Bebas Neue', cursive;
+  src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Quicksand:wght@300&display=swap');
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(./img/TimeLine_1.png);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+}
+
+h1,
+h2 {
+  margin: 0;
+}
