@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.24ca5917.css",
-    "main.js": "/react-homework-template/static/js/main.008da69b.js",
+    "main.css": "/react-homework-template/static/css/main.5860c713.css",
+    "main.js": "/react-homework-template/static/js/main.b4e2e573.js",
     "static/media/TimeLine_1.png": "/react-homework-template/static/media/TimeLine_1.5d87dc0c02811c90a4d3.png",
+    "static/media/Quicksand-Light.ttf": "/react-homework-template/static/media/Quicksand-Light.a7f8083e8b93da348dcc.ttf",
+    "static/media/BebasNeue-Regular.ttf": "/react-homework-template/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/Riot-Games.png": "/react-homework-template/static/media/Riot-Games.3cc09b18bc7c7d94b7ba.png",
     "index.html": "/react-homework-template/index.html",
-    "main.24ca5917.css.map": "/react-homework-template/static/css/main.24ca5917.css.map",
-    "main.008da69b.js.map": "/react-homework-template/static/js/main.008da69b.js.map"
+    "main.5860c713.css.map": "/react-homework-template/static/css/main.5860c713.css.map",
+    "main.b4e2e573.js.map": "/react-homework-template/static/js/main.b4e2e573.js.map"
   },
   "entrypoints": [
-    "static/css/main.24ca5917.css",
-    "static/js/main.008da69b.js"
+    "static/css/main.5860c713.css",
+    "static/js/main.b4e2e573.js"
   ]
 }
