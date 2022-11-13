@@ -1,4 +1,6 @@
 import s from './Content.module.css';
+import founders from '../../img/marcmerrill.jpg';
+import office from '../../img/office.png';
 
 export default function Content() {
   return (
@@ -27,6 +29,7 @@ export default function Content() {
           habits. As soon as it wrapped up, the two offered Jew an $11-an-hour
           internship.
         </div>
+        <img className={s.img} src={founders} alt="founders" width={380} />
       </li>
       <li className={s.item}>
         They wrote a massive design document and focused on creating entirely
@@ -180,6 +183,7 @@ export default function Content() {
           As of May 2018 , Riot Games employs 2,500 people, operating 24 offices
           around the world.
         </div>
+        <img className={s.img} src={office} alt="office" width={350} />
       </li>
       <li className={s.item}>
         Working on Rising Thunder and Stonehearth
