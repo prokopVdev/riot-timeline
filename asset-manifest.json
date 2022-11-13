@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/prokopVdev/riot-timeline/static/css/main.a4c532bd.css",
-    "main.js": "/prokopVdev/riot-timeline/static/js/main.ceb00d4b.js",
-    "static/media/office.png": "/prokopVdev/riot-timeline/static/media/office.b33f6e1e744446e83cf2.png",
-    "static/media/TimeLine_1.png": "/prokopVdev/riot-timeline/static/media/TimeLine_1.5d87dc0c02811c90a4d3.png",
-    "static/media/marcmerrill.jpg": "/prokopVdev/riot-timeline/static/media/marcmerrill.1c80c60d96582cf70902.jpg",
-    "static/media/Quicksand-Light.ttf": "/prokopVdev/riot-timeline/static/media/Quicksand-Light.a7f8083e8b93da348dcc.ttf",
-    "static/media/BebasNeue-Regular.ttf": "/prokopVdev/riot-timeline/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
-    "static/media/Riot-Games.png": "/prokopVdev/riot-timeline/static/media/Riot-Games.3cc09b18bc7c7d94b7ba.png",
-    "index.html": "/prokopVdev/riot-timeline/index.html",
-    "main.a4c532bd.css.map": "/prokopVdev/riot-timeline/static/css/main.a4c532bd.css.map",
-    "main.ceb00d4b.js.map": "/prokopVdev/riot-timeline/static/js/main.ceb00d4b.js.map"
+    "main.css": "/riot-timeline/static/css/main.f54172e4.css",
+    "main.js": "/riot-timeline/static/js/main.a36754bd.js",
+    "static/media/office.png": "/riot-timeline/static/media/office.b33f6e1e744446e83cf2.png",
+    "static/media/TimeLine_1.png": "/riot-timeline/static/media/TimeLine_1.5d87dc0c02811c90a4d3.png",
+    "static/media/marcmerrill.jpg": "/riot-timeline/static/media/marcmerrill.1c80c60d96582cf70902.jpg",
+    "static/media/Quicksand-Light.ttf": "/riot-timeline/static/media/Quicksand-Light.a7f8083e8b93da348dcc.ttf",
+    "static/media/BebasNeue-Regular.ttf": "/riot-timeline/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/Riot-Games.png": "/riot-timeline/static/media/Riot-Games.3cc09b18bc7c7d94b7ba.png",
+    "index.html": "/riot-timeline/index.html",
+    "main.f54172e4.css.map": "/riot-timeline/static/css/main.f54172e4.css.map",
+    "main.a36754bd.js.map": "/riot-timeline/static/js/main.a36754bd.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4c532bd.css",
-    "static/js/main.ceb00d4b.js"
+    "static/css/main.f54172e4.css",
+    "static/js/main.a36754bd.js"
   ]
 }
