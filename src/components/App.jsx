@@ -1,16 +1,14 @@
+import Container from './Container';
+import Head from './Head';
+import Year from './Year';
+import Content from './Content';
+
 export default function App() {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+      <Container>
+        <Head />
+        <Year />
+        <Content />
+      </Container>
   );
-};
+}

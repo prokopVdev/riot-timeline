@@ -1,0 +1,20 @@
+.title {
+  color: rgb(255, 0, 0, 0.5);
+  font-size: 15px;
+  position: absolute;
+  top: 105px;
+  left: 90px;
+}
+
+.title::after {
+  display: block;
+  content: ' ';
+  margin-top: 23px;
+  width: 150px;
+  height: 2px;
+  background-color: rgb(255, 0, 0, 0.8);
+}
+
+.img {
+  border-right: 2px solid rgb(255, 0, 0, 0.8);
+}
