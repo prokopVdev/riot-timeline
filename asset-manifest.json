@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.5860c713.css",
-    "main.js": "/react-homework-template/static/js/main.b4e2e573.js",
-    "static/media/TimeLine_1.png": "/react-homework-template/static/media/TimeLine_1.5d87dc0c02811c90a4d3.png",
-    "static/media/Quicksand-Light.ttf": "/react-homework-template/static/media/Quicksand-Light.a7f8083e8b93da348dcc.ttf",
-    "static/media/BebasNeue-Regular.ttf": "/react-homework-template/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
-    "static/media/Riot-Games.png": "/react-homework-template/static/media/Riot-Games.3cc09b18bc7c7d94b7ba.png",
-    "index.html": "/react-homework-template/index.html",
-    "main.5860c713.css.map": "/react-homework-template/static/css/main.5860c713.css.map",
-    "main.b4e2e573.js.map": "/react-homework-template/static/js/main.b4e2e573.js.map"
+    "main.css": "//github.com/prokopVdev/riot-timeline/static/css/main.509f1263.css",
+    "main.js": "//github.com/prokopVdev/riot-timeline/static/js/main.556f108f.js",
+    "static/media/TimeLine_1.png": "//github.com/prokopVdev/riot-timeline/static/media/TimeLine_1.5d87dc0c02811c90a4d3.png",
+    "static/media/Quicksand-Light.ttf": "//github.com/prokopVdev/riot-timeline/static/media/Quicksand-Light.a7f8083e8b93da348dcc.ttf",
+    "static/media/BebasNeue-Regular.ttf": "//github.com/prokopVdev/riot-timeline/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "static/media/Riot-Games.png": "//github.com/prokopVdev/riot-timeline/static/media/Riot-Games.3cc09b18bc7c7d94b7ba.png",
+    "index.html": "//github.com/prokopVdev/riot-timeline/index.html",
+    "main.509f1263.css.map": "//github.com/prokopVdev/riot-timeline/static/css/main.509f1263.css.map",
+    "main.556f108f.js.map": "//github.com/prokopVdev/riot-timeline/static/js/main.556f108f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5860c713.css",
-    "static/js/main.b4e2e573.js"
+    "static/css/main.509f1263.css",
+    "static/js/main.556f108f.js"
   ]
 }
